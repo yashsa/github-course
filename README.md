@@ -2,4 +2,4 @@
 
 This is a simple readme file.
 
-Now this is sure to cause a problem.
+trying to resolve conflict

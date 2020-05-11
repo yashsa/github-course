@@ -1,1 +1,5 @@
 *.log
+*_BACKUP*
+*_BASE*
+*_REMOTE*
+*_LOCAL*
