@@ -2,4 +2,4 @@
 
 This is a simple readme file.
 
-trying to resolve conflict
+Trying the stash command.
